@@ -1,4 +1,4 @@
-# Realty
+# Real Estate Website
 
 This project is a real estate website using maps api to search for an address inside USA.
 
